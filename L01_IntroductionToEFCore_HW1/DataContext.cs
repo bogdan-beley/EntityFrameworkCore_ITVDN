@@ -7,7 +7,7 @@ namespace L01_IntroductionToEFCore_HW1
 {
     class DataContext : DbContext
     {
-        public DbSet<Book> Books { get; set; }
+        public virtual DbSet<Book> Books { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
