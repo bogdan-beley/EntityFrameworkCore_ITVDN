@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L01_IntroductionToEFCore_HW1", "L01_IntroductionToEFCore_HW1\L01_IntroductionToEFCore_HW1.csproj", "{C43065A0-7E0F-4DE8-997A-C29DF1C6E619}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L01_IntroductionToEFCore_HW1", "L01_IntroductionToEFCore_HW1\L01_IntroductionToEFCore_HW1.csproj", "{C43065A0-7E0F-4DE8-997A-C29DF1C6E619}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L01_IntroductionToEFCore_HW2", "L01_IntroductionToEFCore_HW2\L01_IntroductionToEFCore_HW2.csproj", "{706CED2D-5EEB-4A74-8CFE-D296F5C72DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L01_IntroductionToEFCore_HW2", "L01_IntroductionToEFCore_HW2\L01_IntroductionToEFCore_HW2.csproj", "{706CED2D-5EEB-4A74-8CFE-D296F5C72DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02_FluentAPIAndDataAnnotations_HW1", "L02_FluentAPIAndDataAnnotations_HW1\L02_FluentAPIAndDataAnnotations_HW1.csproj", "{25A914B8-C59E-4CA8-AA0B-AFD91830DE84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{706CED2D-5EEB-4A74-8CFE-D296F5C72DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{706CED2D-5EEB-4A74-8CFE-D296F5C72DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{706CED2D-5EEB-4A74-8CFE-D296F5C72DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A914B8-C59E-4CA8-AA0B-AFD91830DE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A914B8-C59E-4CA8-AA0B-AFD91830DE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A914B8-C59E-4CA8-AA0B-AFD91830DE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A914B8-C59E-4CA8-AA0B-AFD91830DE84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
