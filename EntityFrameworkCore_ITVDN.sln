@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L01_IntroductionToEFCore_HW
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L01_IntroductionToEFCore_HW2", "L01_IntroductionToEFCore_HW2\L01_IntroductionToEFCore_HW2.csproj", "{706CED2D-5EEB-4A74-8CFE-D296F5C72DBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02_FluentAPIAndDataAnnotations_HW1", "L02_FluentAPIAndDataAnnotations_HW1\L02_FluentAPIAndDataAnnotations_HW1.csproj", "{25A914B8-C59E-4CA8-AA0B-AFD91830DE84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L02_FluentAPIAndDataAnnotations_HW1", "L02_FluentAPIAndDataAnnotations_HW1\L02_FluentAPIAndDataAnnotations_HW1.csproj", "{25A914B8-C59E-4CA8-AA0B-AFD91830DE84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02_FluentAPIAndDataAnnotations_HW2", "L02_FluentAPIAndDataAnnotations_HW2\L02_FluentAPIAndDataAnnotations_HW2.csproj", "{A1360402-915D-4C00-84CE-2E4493F79713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L02_FluentAPIAndDataAnnotations_HW2", "L02_FluentAPIAndDataAnnotations_HW2\L02_FluentAPIAndDataAnnotations_HW2.csproj", "{A1360402-915D-4C00-84CE-2E4493F79713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L03_RelationshipsBetweenModels_HW1", "L03_RelationshipsBetweenModels_HW1\L03_RelationshipsBetweenModels_HW1.csproj", "{B0C497EE-09B5-49AD-ABE5-BDF453FC163D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A1360402-915D-4C00-84CE-2E4493F79713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1360402-915D-4C00-84CE-2E4493F79713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1360402-915D-4C00-84CE-2E4493F79713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C497EE-09B5-49AD-ABE5-BDF453FC163D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C497EE-09B5-49AD-ABE5-BDF453FC163D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C497EE-09B5-49AD-ABE5-BDF453FC163D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C497EE-09B5-49AD-ABE5-BDF453FC163D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
