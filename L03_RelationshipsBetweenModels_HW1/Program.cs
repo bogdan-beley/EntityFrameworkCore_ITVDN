@@ -3,7 +3,7 @@ using System;
 
 namespace L03_RelationshipsBetweenModels_HW1
 {
-    // One-to-Many relationship
+    // One-to-Many Relationship Model
     class Program
     {
         static void Main(string[] args)
